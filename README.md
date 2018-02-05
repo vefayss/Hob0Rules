@@ -23,3 +23,4 @@ This ruleset is much more extensive and utilizes many common password structure 
 ```
 hashcat -a 0 -m 1000 <NTLMHASHES> wordlists/english.txt -r d3adhob0.rule -o cracked.txt
 ```
+##  hob çeviri
